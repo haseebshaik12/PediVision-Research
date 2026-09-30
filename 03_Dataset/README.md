@@ -42,3 +42,12 @@ After obtaining authorized access, the following steps will be documented:
 **Status:** Dataset selection and access verification are pending.
 
 No dataset has been downloaded, analyzed, or used for model training at this stage.
+
+## Dataset Label Inventory
+
+The file `dataset_label_inventory.csv` will be used to document the available pediatric brain tumor subtypes, patient counts, MRI scan counts, and clinical data availability.
+
+The inventory will be completed after the dataset has been accessed and its labels and records have been verified.
+
+No unverified class labels or sample counts will be reported.
+

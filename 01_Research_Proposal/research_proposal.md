@@ -58,19 +58,19 @@ This is a **preliminary research gap**. It must be verified through a detailed l
 
 ## 7. Research Questions
 
-### Primary Research Question
+## Primary Research Question
 
-Does integrating MRI-derived features with clinically available patient information improve pediatric brain tumor classification compared with MRI-only and clinical-only approaches?
+Does integrating MRI-derived features with clinically available patient information improve multi-class classification of available pediatric brain tumor subtypes compared with MRI-only and clinical-only models?
 
-### Secondary Research Questions
+## Secondary Research Questions
 
-1. How does the use of individual MRI sequences affect classification performance?
-2. Does combining multiple MRI sequences improve performance compared with using a single sequence?
-3. How well can clinical information alone support the selected classification task?
-4. Does multimodal MRI-clinical fusion improve classification performance compared with unimodal models?
-5. How does model performance change when MRI sequences are unavailable?
-6. How does model performance change when clinical information is incomplete?
-7. Which image regions and clinical variables contribute to model predictions?
+1. How does the performance of MRI-only, clinical-only, and multimodal models compare?
+2. Does using multiple MRI sequences improve classification performance compared with a single sequence?
+3. How does model performance change when MRI or clinical information is missing?
+4. Which MRI regions and clinical features contribute to the model's predictions?
+
+The final tumor classes and clinical variables will be determined after dataset verification.
+
 
 ## 8. Research Hypotheses
 

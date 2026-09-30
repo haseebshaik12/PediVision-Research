@@ -360,3 +360,23 @@ The study will be considered experimentally complete when:
 6. Results are documented with appropriate metrics.
 7. Limitations and reproducibility information are recorded.
 8. The findings are ready for interpretation and manuscript preparation.
+
+## Multi-Class Classification Strategy
+
+### Objective
+
+Classify pediatric brain tumors into the available subtypes using MRI data, clinical information, and a combination of both.
+
+### Planned Experiments
+
+1. **MRI-only model:** Use MRI images to classify tumor subtypes.
+2. **Clinical-only model:** Use available clinical features to classify tumor subtypes.
+3. **Multimodal model:** Combine MRI-derived features and clinical information.
+4. **Missing-modality experiment:** Evaluate model performance when MRI or clinical information is unavailable.
+
+### Evaluation
+
+Evaluate models using accuracy, precision, recall, macro-F1 score, Matthews correlation coefficient (MCC), and confusion matrices.
+
+The final class labels and dataset-specific experimental settings will be determined after dataset verification.
+
