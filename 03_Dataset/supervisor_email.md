@@ -14,12 +14,12 @@ I am currently working on an independent research project titled "PediVision: Mu
 
 The objective of this research is to investigate whether combining MRI-derived features with structured clinical information can improve pediatric brain tumor classification compared with MRI-only and clinical-only models.
 
-I am exploring the Children's Brain Tumor Network (CBTN) dataset as a potential source of pediatric brain MRI scans and associated clinical information. I would like to understand the dataset's access requirements, available clinical variables, and any institutional or ethical approvals that may be necessary before proceeding.
+I am exploring the Children's Brain Tumor Network (CBTN) dataset as a potential source of pediatric brain MRI scans and associated clinical information. I would like to confirm the dataset's access requirements, available clinical variables, and any institutional or ethical approvals that may be necessary before proceeding.
 
 I would be grateful if you could review my proposed research direction and advise me on the following:
 
 1. Whether the research question is sufficiently focused and feasible.
-2. The appropriate process for requesting access to the CBTN dataset.
+2. Whether the CBTN access request I have submitted is appropriate and whether any additional documentation or institutional requirements are needed.”
 3. Any university requirements, research ethics approvals, or documentation needed.
 4. Suggestions for refining the methodology and experimental design.
 
